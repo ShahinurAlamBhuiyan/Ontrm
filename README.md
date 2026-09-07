@@ -102,7 +102,7 @@ ONTRM combines responsive product design, adaptive onboarding, secure authentica
 
 Watch the project walkthrough to see the complete ONTRM experience, including the public website, registration workflow, customer dashboard, administrative system, payments, and document workflows.
 
-▶️ **[Watch ONTRM Project Walkthrough on YouTube](YOUR_YOUTUBE_VIDEO_LINK)**
+▶️ **[Watch ONTRM Project Walkthrough on YouTube](https://youtu.be/eT1UM86igTA?si=E0_wUIqHuh_PZt-5)**
 
 > The walkthrough uses demo/sample information where necessary to protect private customer and administrative data.
 
